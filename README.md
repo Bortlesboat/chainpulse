@@ -1,5 +1,10 @@
 # ChainPulse
 
+[![CI](https://github.com/Bortlesboat/chainpulse/actions/workflows/ci.yml/badge.svg)](https://github.com/Bortlesboat/chainpulse/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![PyPI](https://img.shields.io/pypi/v/chainpulse.svg)](https://pypi.org/project/chainpulse/)
+
 **15 minutes of manual research → 5 seconds in your terminal.**
 
 ChainPulse is an AI-powered CLI that answers questions about the Bitcoin network using real-time on-chain data. Ask in plain English, get structured analysis.
@@ -127,6 +132,15 @@ pip install -e ".[dev]"
 pytest
 ruff check src/ tests/
 ```
+
+## Contributing
+
+Pull requests welcome. Please open an issue first to discuss major changes.
+
+1. Fork the repo
+2. Create your feature branch
+3. Run tests: `pytest`
+4. Submit a PR
 
 ## License
 
