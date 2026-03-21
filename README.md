@@ -142,6 +142,12 @@ Pull requests welcome. Please open an issue first to discuss major changes.
 3. Run tests: `pytest`
 4. Submit a PR
 
+## Related Projects
+
+- [bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp) — MCP server with 49 Bitcoin tools for AI agents
+- [Satoshi API](https://github.com/Bortlesboat/bitcoin-api) — Bitcoin fee intelligence API
+- [BAIP-1](https://github.com/Bortlesboat/baip-python) — Bitcoin Agent Identity Protocol
+
 ## License
 
 MIT
